@@ -1,0 +1,12 @@
+5	2x3	Red: 2	Yellow:	2,4,3	1,_,5					U-L-D-R-R	Num: 1326	Cost: 6.0		U-L-D-R-R	Num: 754	Cost: 6.0	5
+5	3x2	Red:	Yellow: 1,2,6	3,1	2,_	5,4				L-U-R-D-D	Num: 1649	Cost: 3.5		L-U-R-D-D	Num: 1265	Cost: 3.5	5
+5	3x2	Red: 2	Yellow: 1,4,5	3,1	2,_	5,4				L-U-R-D-D	Num: 1186	Cost: 6.0		L-U-R-D-D	Num: 1292	Cost: 6.0	5
+5	3x3	Red: 2,5	Yellow: 1,3,4	1,2,3	5,7,6	4,_,8				U-L-D-R-R	Num: 221417	Cost: 5.5		U-L-D-R-R	Num: 238555	Cost: 5.5	5
+5	3x3	Red: 3	Yellow: 2,4,6	1,2,3	5,7,6	4,_,8				U-L-D-R-R	Num: 41135	Cost: 4.5		U-L-D-R-R	Num: 147210	Cost: 4.5	5
+5	3x3	Red: 2,4,7	Yellow: 6,8,9	1,5,2	4,3,_	7,8,6				L-U-R-D-D	Num: 16170	Cost: 5.5		L-U-R-D-D	Num: 218492	Cost: 5.5	5
+5	3x3	Red: 7,9	Yellow: 1,2,5,8	1,5,2	4,3,_	7,8,6				L-U-R-D-D	Num: 92172	Cost: 4.0		L-U-R-D-D	Num: 67537	Cost: 4.0	5
+5	4x2	Red: 1,6,7,8	Yellow: 4	1,2	5,3	4,_	7,6			L-U-R-D-D	Num: 277874	Cost: 5.0		L-U-R-D-D	Num: 272221	Cost: 5.0	5
+5	4x3	Red: 5,8,10	Yellow: 3,4,6,7	1,2,3	4,5,6	8,10,9	7,_,11			U-L-D-R-R	Num: 409	Cost: 7.5		U-L-D-R-R	Num: 387	Cost: 7.5	5
+5	4x3	Red: 2,4,9,11,12	Yellow: 8,10	1,2,3	4,5,6	8,10,9	7,_,11			U-L-D-R-R	Num: 6967	Cost: 4.5		U-L-D-R-R	Num: 6856	Cost: 4.5	5
+5	4x3	Red: 1,10	Yellow: 2,3,4,6,12	1,2,3	4,5,6	8,10,9	7,_,11			U-L-D-R-R	Num: 292	Cost: 7.0		U-L-D-R-R	Num: 284	Cost: 7.0	5
+5	5x3	Red: 1,8,12	Yellow: 2,3,4,7,10,11,14,15	1,2,3	4,5,6	7,8,9	11,13,12	10,_,14		U-L-D-R-R	Num: 11947	Cost: 3.5		U-L-D-R-R	Num: 12643	Cost: 3.5	5
